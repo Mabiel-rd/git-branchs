@@ -36,3 +36,7 @@ Luego debes usar el comando git merge testing para unir la rama testing con la m
 Si has estado modificando el archivo README.md cada vez que haces un commit en las
 distintas ramas es muy probable que tengas un conflicto al unir las ramas. Este tipo de
 conflicto se presenta de la siguiente manera.
+
+# GIT branch test 
+
+cambios de rama para testing 
